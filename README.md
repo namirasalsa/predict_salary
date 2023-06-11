@@ -1,1 +1,2 @@
-# predict_salary
+# predict-salary
+Tugas Besar PASD
