@@ -1,2 +1,2 @@
 # predict-salary
-Tugas Besar PASD
+Tugas Besar matakuliah Perancangan Aplikasi Sains Data
